@@ -1,2 +1,2 @@
 # git_course
-zero course
+i am ready
